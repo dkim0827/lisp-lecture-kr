@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lisp-lecture-kr/static/css/main.073c9b0a.css",
+    "main.js": "/lisp-lecture-kr/static/js/main.d2279fe3.js",
+    "static/js/787.8ff133b9.chunk.js": "/lisp-lecture-kr/static/js/787.8ff133b9.chunk.js",
+    "static/media/logo.svg": "/lisp-lecture-kr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lisp-lecture-kr/index.html",
+    "main.073c9b0a.css.map": "/lisp-lecture-kr/static/css/main.073c9b0a.css.map",
+    "main.d2279fe3.js.map": "/lisp-lecture-kr/static/js/main.d2279fe3.js.map",
+    "787.8ff133b9.chunk.js.map": "/lisp-lecture-kr/static/js/787.8ff133b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2279fe3.js"
+  ]
+}
